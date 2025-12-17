@@ -1,0 +1,1 @@
+Welcome to the Python Fundamentals repository! This space is dedicated to building a strong foundation in Python programming. It contains practice exercises, mini-projects, and notes that cover the essential concepts every beginner and intermediate learner should master.
